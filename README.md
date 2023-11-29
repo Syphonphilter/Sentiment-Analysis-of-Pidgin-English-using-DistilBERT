@@ -42,10 +42,11 @@ To run the script, simply execute it in a Python environment after setting up th
 - The script is structured for easy modification and scaling.
 - Comments and markdowns within the script provide further guidance on each section.
 
-## Author
-
-[Your Name or Organization]
+## Authors
+Abdulkadir Bala Richard.
+Chijioke Onyeka Ahanwa.
+David Osawese Okundigie.
 
 ## License
 
-[Specify the license or state that it's open source]
+MIT
